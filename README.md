@@ -1,1 +1,1 @@
-![Screenshot](‪C:\Users\S_AFRICA\Downloads\sad (1).png)
+![image]‪(https://via.placeholder.com/400x200.png?text=Example+Image)
